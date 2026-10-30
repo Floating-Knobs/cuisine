@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "programmer": "Arduino as ISP",
+    "port": "COM6",
+    "sketch": "src\\Sequencer_V_3.2_Work.ino"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cuisine",
+  "version": "1.0.0",
+  "description": "Hardware SDK for the Cuisine sequencer (ATmega4809 board): endless pot, key matrix, gate in/out, CV, LEDs, MIDI, clock, storage.",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Dorian Largen",
+      "maintainer": true
+    }
+  ],
+  "keywords": ["avr", "atmega4809", "sequencer", "midi", "cv", "eurorack"],
+  "frameworks": "arduino",
+  "platforms": "atmelmegaavr",
+  "build": {
+    "srcDir": "src"
+  }
+}
